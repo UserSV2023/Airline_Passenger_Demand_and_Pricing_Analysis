@@ -1,4 +1,4 @@
-# Airline Passenger Demand and Pricing_Analysis
+# Airline Passenger Demand and Pricing Analysis
 
 This project analyzes the impact of fare prices and market concentration on airline passenger demand using U.S. domestic airline fare data (1997–2000). Key objectives include estimating price elasticity and understanding demand trends.
 
